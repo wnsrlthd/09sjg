@@ -1,0 +1,17 @@
+export const nationalWeather = [
+  { region: '서울', icon: '맑음', temperature: 24, high: 27, low: 18 },
+  { region: '인천', icon: '구름 많음', temperature: 22, high: 25, low: 17 },
+  { region: '수원', icon: '구름 조금', temperature: 23, high: 27, low: 17 },
+  { region: '춘천', icon: '맑음', temperature: 21, high: 26, low: 14 },
+  { region: '강릉', icon: '구름 조금', temperature: 22, high: 25, low: 17 },
+  { region: '대전', icon: '맑음', temperature: 25, high: 28, low: 16 },
+  { region: '세종', icon: '맑음', temperature: 24, high: 28, low: 15 },
+  { region: '청주', icon: '구름 조금', temperature: 24, high: 27, low: 16 },
+  { region: '전주', icon: '구름 많음', temperature: 25, high: 29, low: 18 },
+  { region: '광주', icon: '구름 조금', temperature: 26, high: 30, low: 19 },
+  { region: '제주', icon: '비', temperature: 23, high: 26, low: 21 },
+  { region: '대구', icon: '맑음', temperature: 26, high: 30, low: 18 },
+  { region: '부산', icon: '구름 조금', temperature: 24, high: 27, low: 20 },
+  { region: '울산', icon: '구름 많음', temperature: 24, high: 28, low: 19 },
+  { region: '창원', icon: '구름 조금', temperature: 25, high: 28, low: 19 },
+]
